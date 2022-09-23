@@ -1,0 +1,77 @@
+tr:nth-child(odd) {
+  background-color: #ffffff;
+}
+tr:nth-child(even) {
+  background-color: #eaeaea;
+}
+
+#botao-criar {
+  height: 38px;
+  width: 110px;
+  border-radius: 0;
+  border-style: none;
+  background-color: blue;
+  color: white;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+#tabela td {
+  padding: 2px;
+  height: 37px;
+}
+#tabela button {
+  padding: 0px;
+  margin: 2px;
+  width: 55px;
+  height: 22px;
+}
+
+#celula-id {
+  width: 46px;
+  height: 30px;
+  color: white;
+  font-weight: bold;
+  background-color: #213435;
+  text-align: center;
+}
+
+#celula-nome {
+  width: 175px;
+  height: 35px;
+  color: white;
+  font-weight: bold;
+  background-color: #213435;
+  text-align: center;
+}
+
+#celula-email {
+  width: 311px;
+  height: 35px;
+  color: white;
+  font-weight: bold;
+  background-color: #213435;
+  text-align: center;
+}
+
+#celula-acoes {
+  width: 120px;
+  height: 35px;
+  color: white;
+  font-weight: bold;
+  background-color: #213435;
+  text-align: center;
+}
+
+.classe-id {
+  width: 44px;
+  text-align: center;
+}
+
+.classe-nome {
+  width: 173px;
+}
+
+.classe-email {
+  width: 309px;
+}
