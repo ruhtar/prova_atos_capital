@@ -1,7 +1,8 @@
 # PROVA ATOS CAPITAL
 
-![Project Image]((https://user-images.githubusercontent.com/83853014/199136173-844a562f-fd2a-4b8b-a874-f16a21b7ed33.png))
-))
+
+![tabela](https://user-images.githubusercontent.com/83853014/199136290-db263276-841f-42d9-aae5-9d7687966457.PNG)
+
 
 > Tabela de usuários elaborada durante prova para vaga de dev júnior front-end.
 
